@@ -9,10 +9,9 @@ I’ve been fortunate to win a few, including:
 🥇 **ML Mania – Anna University**  
 🥇 **DataThon – VIT**
 
-Explore my repositories to see a selection of my work in backend development, data science, and model development:  
+Explore my repositories to see a selection of my work:
 [**Projects**](https://github.com/mithilesh-g-47?tab=repositories)
 
-Let’s build cool stuff, break things (responsibly), and make tech a little more human. 
 
 
 
