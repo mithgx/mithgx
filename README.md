@@ -3,11 +3,9 @@ Hi, I’m **Mithilesh** 👋
 
 Currently engineering my way through **VIT** while diving into **Data Analytics, Machine Learning, and GenAI**.
 
-From whiteboarding at **2 AM** to demoing at the last minute — hackathons have been my best crash course in building under pressure.  
-I’ve been fortunate to win a few, including:  
-🥇 **Data Analytics Hackathon – IIITDM Kancheepuram**  
-🥇 **ML Mania – Anna University**  
-🥇 **DataThon – VIT**
+I enjoy solving real-world problems through data and code - constantly experimenting, learning, and building.
+Late-night debugging, unexpected insights, and small wins along the way have shaped much of my journey so far.
+
 
 Explore my repositories to see a selection of my work:
 [**Projects**](https://github.com/mithgx?tab=repositories)
