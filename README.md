@@ -23,5 +23,7 @@ Explore my repositories to see a selection of my work:
 ![](https://github-readme-stats.vercel.app/api?username=mithgx&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mithgx&theme=vue&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=mithgx&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=mithgx&color=green&style=flat-square)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
