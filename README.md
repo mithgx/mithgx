@@ -26,4 +26,7 @@ Explore my repositories to see a selection of my work:
 ![Profile views](https://komarev.com/ghpvc/?username=mithgx&color=green&style=flat-square)
 
 
+![snake gif](https://github.com/mithgx/mithgx/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
