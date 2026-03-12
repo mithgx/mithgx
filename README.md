@@ -7,10 +7,10 @@ I enjoy solving real-world problems through data and code - constantly experimen
 Late-night debugging, unexpected insights, and small wins along the way have shaped much of my journey so far.
 
 
-Explore my repositories to see a selection of my work:
-[**Projects**](https://github.com/mithgx?tab=repositories)
+## Explore My Work
 
-
+🔹 **Projects:** [Browse my repositories](https://github.com/mithgx?tab=repositories)  
+🔹 **Portfolio:** [Visit my portfolio](https://mith-portfolio.vercel.app/)
 
 
 
